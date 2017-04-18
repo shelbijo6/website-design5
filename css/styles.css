@@ -1,4 +1,67 @@
+* {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #A9A9A9;
+}
+
+a:hover {
+  color: #000;
+  font-weight: bold;
+}
+
+.navbar-left {
+  word-spacing: 25px;
+  padding-left: 108px;
+}
+
+.navbar-right {
+  float: right;
+  padding-right: 100px;
+}
+
+.welcome {
+  font-weight: bold;
+  font-size: 50px;
+  padding: 60px;
+  line-height: 5px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+p {
+  padding-left: 45px;
+}
+
+#welcome {
+  font-size: 15px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.section-nav {
+  word-spacing: 15px;
+  padding-left: 104px;
+}
+
+.top-photos {
+  display: flex;
+  justify-content: center;
+}
+
+.bottom-photos {
+  display: flex;
+  justify-content: center;
+}
+
 img {
   height: 300px;
   width: 300px;
+  padding: 40px;
+}
+
+footer {
+  text-align: center;
+  color: #A9A9A9;
 }
