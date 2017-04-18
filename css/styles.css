@@ -41,7 +41,7 @@ p {
 }
 
 .section-nav {
-  word-spacing: 15px;
+  word-spacing: 18px;
   padding-left: 104px;
 }
 
@@ -63,5 +63,4 @@ img {
 
 footer {
   text-align: center;
-  color: #A9A9A9;
 }
