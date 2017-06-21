@@ -1,0 +1,15 @@
+@media only screen and (max-width: 480px) {
+  p {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  #welcome {
+    font-size: 15px;
+  }
+
+  .top-photos {
+    max-width: 100%;
+    height: auto;
+  }
+}
