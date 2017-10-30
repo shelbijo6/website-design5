@@ -29,10 +29,7 @@ a:hover {
   padding: 60px;
   line-height: 5px;
   font-family: 'PT Sans Narrow', sans-serif;
-}
-
-p {
-  padding-left: 45px;
+  text-align: center;
 }
 
 #welcome {
@@ -42,8 +39,9 @@ p {
 }
 
 .section-nav {
-  padding-left: 108px;
+  padding-left: 60px;
   word-spacing: 18px;
+  text-align: center;
 }
 
 .top-photos {
