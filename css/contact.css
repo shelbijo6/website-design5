@@ -38,7 +38,7 @@ a:hover {
 }
 
 .info {
-  padding-left: 425px;
+  padding-left: 530px;
   padding-top: 42px;
 }
 
@@ -51,12 +51,16 @@ input {
 }
 
 #body {
-  height: 150px;
+  height: 155px;
 }
 
 #submit {
   background: #f5f5f5;
   color: #A9A9A9;
+}
+
+#submit:hover {
+  color: black;
 }
 
 footer {
